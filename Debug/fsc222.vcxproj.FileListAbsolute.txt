@@ -1,0 +1,2 @@
+D:\Project\fsc222\Debug\fsc222.exe
+D:\Project\fsc222\Debug\fsc222.pdb

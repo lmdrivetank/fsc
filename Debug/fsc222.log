@@ -1,0 +1,123 @@
+﻿  aa.c
+D:\Project\fsc222\rte\rte_common\rte_type.h(77,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_r”的左侧
+D:\Project\fsc222\rte\rte_common\rte_type.h(90,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_s”的左侧
+D:\Project\fsc222\common\state_machine\sm_task_type.h(45,27): warning C4091: “extern ”: 没有声明变量时忽略“Ts_StateTask”的左侧
+D:\Project\fsc222\bsw\os\FreeRTOS-Kernel-master\include\task.h(2065,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Project\fsc222\app\aa\aa.c(18,15): warning C4047: “return”:“Tpf_Work”与“Te_WorkReuslt_u8”的间接级别不同
+D:\Project\fsc222\app\aa\aa.c(29,15): warning C4047: “return”:“Tpf_Work”与“Te_WorkReuslt_u8”的间接级别不同
+D:\Project\fsc222\app\aa\aa.c(49,15): warning C4047: “return”:“Tpf_Work”与“Te_WorkReuslt_u8”的间接级别不同
+  aa_data.c
+D:\Project\fsc222\rte\rte_common\rte_type.h(77,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_r”的左侧
+D:\Project\fsc222\rte\rte_common\rte_type.h(90,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_s”的左侧
+D:\Project\fsc222\common\state_machine\sm_task_type.h(45,27): warning C4091: “extern ”: 没有声明变量时忽略“Ts_StateTask”的左侧
+D:\Project\fsc222\bsw\os\FreeRTOS-Kernel-master\include\task.h(2065,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Project\fsc222\app\aa\aa_data.c(9,1): warning C4047: “初始化”:“Tpf_Work”与“Tpf_Work (__cdecl *)()”的间接级别不同
+D:\Project\fsc222\app\aa\aa_data.c(880,1): warning C4047: “初始化”:“Ts_CooperateStep *”与“Ts_CooperateStep (*)[1]”的间接级别不同
+D:\Project\fsc222\app\aa\aa_data.c(898,1): warning C4047: “初始化”:“Ts_CooperateStep *”与“Ts_CooperateStep (*)[1]”的间接级别不同
+D:\Project\fsc222\app\aa\aa_data.c(916,1): warning C4047: “初始化”:“Ts_CooperateStep *”与“Ts_CooperateStep (*)[1]”的间接级别不同
+D:\Project\fsc222\app\aa\aa_data.c(934,1): warning C4047: “初始化”:“Ts_CooperateStep *”与“Ts_CooperateStep (*)[1]”的间接级别不同
+D:\Project\fsc222\app\aa\aa_data.c(952,1): warning C4047: “初始化”:“Ts_CooperateStep *”与“Ts_CooperateStep (*)[1]”的间接级别不同
+D:\Project\fsc222\app\aa\aa_data.c(970,1): warning C4047: “初始化”:“Ts_CooperateStep *”与“Ts_CooperateStep (*)[1]”的间接级别不同
+D:\Project\fsc222\app\aa\aa_data.c(988,1): warning C4047: “初始化”:“Ts_CooperateStep *”与“Ts_CooperateStep (*)[1]”的间接级别不同
+D:\Project\fsc222\app\aa\aa_data.c(1006,1): warning C4047: “初始化”:“Ts_CooperateStep *”与“Ts_CooperateStep (*)[2]”的间接级别不同
+D:\Project\fsc222\app\aa\aa_data.c(1024,1): warning C4047: “初始化”:“Ts_CooperateStep *”与“Ts_CooperateStep (*)[2]”的间接级别不同
+D:\Project\fsc222\app\aa\aa_data.c(1042,1): warning C4047: “初始化”:“Ts_CooperateStep *”与“Ts_CooperateStep (*)[1]”的间接级别不同
+D:\Project\fsc222\app\aa\aa_data.c(1060,1): warning C4047: “初始化”:“Ts_CooperateStep *”与“Ts_CooperateStep (*)[1]”的间接级别不同
+D:\Project\fsc222\app\aa\aa_data.c(1078,1): warning C4047: “初始化”:“Ts_CooperateStep *”与“Ts_CooperateStep (*)[1]”的间接级别不同
+  can_switch.c
+D:\Project\fsc222\bsw\os\FreeRTOS-Kernel-master\include\task.h(2065,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  StaticAllocation.c
+D:\Project\fsc222\bsw\os\FreeRTOS-Kernel-master\include\task.h(2065,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Project\fsc222\rte\rte_common\rte_type.h(77,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_r”的左侧
+D:\Project\fsc222\rte\rte_common\rte_type.h(90,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_s”的左侧
+  axep_stack.c
+  j1939_protocol_stack.c
+  test_driver.c
+  croutine.c
+D:\Project\fsc222\bsw\os\FreeRTOS-Kernel-master\include\task.h(2065,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  event_groups.c
+D:\Project\fsc222\bsw\os\FreeRTOS-Kernel-master\include\task.h(2065,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  list.c
+  port.c
+D:\Project\fsc222\bsw\os\FreeRTOS-Kernel-master\include\task.h(2065,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  queue.c
+D:\Project\fsc222\bsw\os\FreeRTOS-Kernel-master\include\task.h(2065,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  stream_buffer.c
+D:\Project\fsc222\bsw\os\FreeRTOS-Kernel-master\include\task.h(2065,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  tasks.c
+D:\Project\fsc222\bsw\os\FreeRTOS-Kernel-master\include\task.h(2065,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  timers.c
+D:\Project\fsc222\bsw\os\FreeRTOS-Kernel-master\include\task.h(2065,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  main.c
+D:\Project\fsc222\bsw\os\FreeRTOS-Kernel-master\include\task.h(2065,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  sm_heartbeat.c
+D:\Project\fsc222\rte\rte_common\rte_type.h(77,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_r”的左侧
+D:\Project\fsc222\rte\rte_common\rte_type.h(90,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_s”的左侧
+  eeprom.c
+  rte_health_monitor.c
+D:\Project\fsc222\rte\rte_common\rte_type.h(77,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_r”的左侧
+D:\Project\fsc222\rte\rte_common\rte_type.h(90,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_s”的左侧
+  rte_sm.c
+D:\Project\fsc222\rte\rte_common\rte_type.h(77,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_r”的左侧
+D:\Project\fsc222\rte\rte_common\rte_type.h(90,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_s”的左侧
+D:\Project\fsc222\rte\rte_resource_manager\rte_sm.c(7,8): warning C4013: “printf”未定义；假设外部返回 int
+D:\Project\fsc222\rte\rte_resource_manager\rte_sm.c(13,67): warning C4244: “return”: 从“uint16_t”转换到“Te_StateIdentify_i8”，可能丢失数据
+D:\Project\fsc222\rte\rte_resource_manager\rte_sm.c(22,67): warning C4244: “return”: 从“uint16_t”转换到“Te_StateIdentify_i8”，可能丢失数据
+  正在生成代码...
+D:\Project\fsc222\app\aa\aa.c(9): warning C4716: “AA_Task”: 必须返回一个值
+  正在编译...
+  sm_main.c
+D:\Project\fsc222\rte\rte_common\rte_type.h(77,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_r”的左侧
+D:\Project\fsc222\rte\rte_common\rte_type.h(90,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_s”的左侧
+D:\Project\fsc222\Common\state_machine\sm_task_type.h(45,27): warning C4091: “extern ”: 没有声明变量时忽略“Ts_StateTask”的左侧
+  sm_cooperate.c
+D:\Project\fsc222\rte\rte_common\rte_type.h(77,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_r”的左侧
+D:\Project\fsc222\rte\rte_common\rte_type.h(90,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_s”的左侧
+D:\Project\fsc222\common\state_machine\sm_task_type.h(45,27): warning C4091: “extern ”: 没有声明变量时忽略“Ts_StateTask”的左侧
+D:\Project\fsc222\common\state_machine\sm_cooperate.c(45,10): warning C4013: “printf”未定义；假设外部返回 int
+D:\Project\fsc222\common\state_machine\sm_cooperate.c(33,14): warning C4101: “fault_info”: 未引用的局部变量
+  sm_exception.c
+D:\Project\fsc222\rte\rte_common\rte_type.h(77,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_r”的左侧
+D:\Project\fsc222\rte\rte_common\rte_type.h(90,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_s”的左侧
+D:\Project\fsc222\common\state_machine\sm_task_type.h(45,27): warning C4091: “extern ”: 没有声明变量时忽略“Ts_StateTask”的左侧
+  sm_state.c
+D:\Project\fsc222\rte\rte_common\rte_type.h(77,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_r”的左侧
+D:\Project\fsc222\rte\rte_common\rte_type.h(90,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_s”的左侧
+D:\Project\fsc222\common\state_machine\sm_task_type.h(45,27): warning C4091: “extern ”: 没有声明变量时忽略“Ts_StateTask”的左侧
+D:\Project\fsc222\common\state_machine\sm_state.c(13,38): warning C4133: “=”: 从“Ts_StateTask *”到“Ts_StateTask *”的类型不兼容
+D:\Project\fsc222\common\state_machine\sm_state.c(21,38): warning C4133: “=”: 从“Ts_StateTask *”到“Ts_StateTask *”的类型不兼容
+D:\Project\fsc222\common\state_machine\sm_state.c(7,1): warning C4133: “初始化”: 从“Ts_StateTask *”到“Ts_StateTask *”的类型不兼容
+D:\Project\fsc222\common\state_machine\sm_state.c(8,1): warning C4133: “初始化”: 从“Ts_StateTask *”到“Ts_StateTask *”的类型不兼容
+D:\Project\fsc222\common\state_machine\sm_state.c(48,39): warning C4133: “=”: 从“Ts_StateTask *”到“Ts_StateTask *”的类型不兼容
+D:\Project\fsc222\common\state_machine\sm_state.c(61,55): warning C4133: “=”: 从“Ts_StateTask *”到“Ts_StateTask *”的类型不兼容
+D:\Project\fsc222\common\state_machine\sm_state.c(62,55): warning C4133: “=”: 从“Ts_StateTask *”到“Ts_StateTask *”的类型不兼容
+D:\Project\fsc222\common\state_machine\sm_state.c(65,41): warning C4133: “=”: 从“Ts_StateTask *”到“Ts_StateTask *”的类型不兼容
+D:\Project\fsc222\common\state_machine\sm_state.c(80,8): warning C4013: “printf”未定义；假设外部返回 int
+D:\Project\fsc222\common\state_machine\sm_state.c(110,27): warning C4013: “RTE_SM_SendStateRequest”未定义；假设外部返回 int
+D:\Project\fsc222\common\state_machine\sm_state.c(147,45): warning C4133: “=”: 从“Ts_StateTask *”到“Ts_StateTask *”的类型不兼容
+D:\Project\fsc222\common\state_machine\sm_state.c(170,45): warning C4133: “=”: 从“Ts_StateTask *”到“Ts_StateTask *”的类型不兼容
+D:\Project\fsc222\common\state_machine\sm_state.c(192,1): warning C4029: 声明的形参表不同于定义
+  rte_aa.c
+D:\Project\fsc222\rte\rte_common\rte_type.h(77,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_r”的左侧
+D:\Project\fsc222\rte\rte_common\rte_type.h(90,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_s”的左侧
+  rte_pool.c
+D:\Project\fsc222\rte\rte_common\rte_type.h(77,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_r”的左侧
+D:\Project\fsc222\rte\rte_common\rte_type.h(90,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_s”的左侧
+  rte_main.c
+D:\Project\fsc222\rte\rte_common\rte_type.h(77,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_r”的左侧
+D:\Project\fsc222\rte\rte_common\rte_type.h(90,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_s”的左侧
+D:\Project\fsc222\bsw\os\FreeRTOS-Kernel-master\include\task.h(2065,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Project\fsc222\rte\rte_os\rte_main.c(11,37): warning C4113: “void (__cdecl *)()”和“TaskFunction_t”的参数列表不同
+  rte_task.c
+D:\Project\fsc222\rte\rte_common\rte_type.h(77,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_r”的左侧
+D:\Project\fsc222\rte\rte_common\rte_type.h(90,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_s”的左侧
+D:\Project\fsc222\bsw\os\FreeRTOS-Kernel-master\include\task.h(2065,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Project\fsc222\rte\rte_os\rte_task.c(22,139): warning C4047: “=”:“TaskHandle_t *”与“TaskHandle_t”的间接级别不同
+D:\Project\fsc222\rte\rte_os\rte_task.c(26,44): warning C4047: “函数”:“TaskHandle_t”与“TaskHandle_t *”的间接级别不同
+D:\Project\fsc222\rte\rte_os\rte_task.c(26,44): warning C4024: “vTaskDelete”: 形参和实参 1 的类型不同
+  test_aa.c
+D:\Project\fsc222\rte\rte_common\rte_type.h(77,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_r”的左侧
+D:\Project\fsc222\rte\rte_common\rte_type.h(90,2): warning C4091: “typedef ”: 没有声明变量时忽略“Te_lean_s”的左侧
+D:\Project\fsc222\TEST\test_aa\test_aa.c(9,9): warning C4013: “AA_Task”未定义；假设外部返回 int
+  正在生成代码...
+  fsc222.vcxproj -> D:\Project\fsc222\Debug\fsc222.exe
